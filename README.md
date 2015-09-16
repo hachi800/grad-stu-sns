@@ -1,2 +1,2 @@
 # grad-stu-sns
-SNSの開発
+~SNSの開発~
